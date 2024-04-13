@@ -2,26 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 合同会社マメコアンドコ
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Based in Toshima, Tokyo</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-This is the homepage of Mameko & Co. Mameko, a little hamster who loves the earth, will be sharing its tips and practices on how to live a low waste life.
+Mameko & Co へようこそ！ここは、持続可能性と可愛さが融合する場所です。環境問題についての認識を広めることを使命とし、私たちは小さな一歩から世界をより良い場所にすることに尽力しています。愛らしいハムスターのマメコと、エコな生活に対する情熱を通じて、私たちは個々の方々が日常生活で緑の実践を採用するようにインスパイアし、力を与えることを目指しています。また、持続可能なソリューションのためのテクノロジーを活用した革新的なアプリケーションの開発にも取り組んでいます。一緒に、より緑豊かで明るい未来への旅を共にしましょう！
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Welcome to Mameko & Co, where sustainability meets cuteness! Founded with a mission to spread awareness about environmental issues, we are a team dedicated to making the world a better place -- one tiny hamster step at a time. Through our adorable hamster Mameko and our passion for eco-friendly living, we aim to inspire and empower individuals to adopt green practices in their daily lives. In addition to our ongoing efforts, we are also committed to developing innovative applications that harness technology for sustainability solutions. Join us on this journey towards a greener, brighter future!
